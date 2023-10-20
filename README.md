@@ -1,6 +1,6 @@
 # ClgProject
-My first college project
+My first college project.
 <br>
-shiksha rathore
+shiksha rathore.
 <br>
-persuing computer science engineering
+persuing computer science engineering.
