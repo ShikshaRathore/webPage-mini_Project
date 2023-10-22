@@ -4,5 +4,3 @@ My first college project.
 shiksha rathore.
 <br>
 pursuing computer science engineering.
-<br>
-#softwareengineering
